@@ -1,0 +1,3 @@
+C:\Users\dotnetcloudmc102\source\repos\API\.vs\API\v16\lut\0\i\Test\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\dotnetcloudmc102\source\repos\API\.vs\API\v16\lut\0\i\Test\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\dotnetcloudmc102\source\repos\API\.vs\API\v16\lut\0\i\Test\netcoreapp3.1\Test.AssemblyInfo.cs

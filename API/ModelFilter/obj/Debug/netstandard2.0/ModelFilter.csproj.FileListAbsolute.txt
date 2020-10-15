@@ -1,0 +1,9 @@
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\bin\Debug\netstandard2.0\ModelFilter.deps.json
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\bin\Debug\netstandard2.0\ModelFilter.dll
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\obj\Debug\netstandard2.0\ModelFilter.csprojAssemblyReference.cache
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\obj\Debug\netstandard2.0\ModelFilter.AssemblyInfoInputs.cache
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\obj\Debug\netstandard2.0\ModelFilter.AssemblyInfo.cs
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\bin\Debug\netstandard2.0\ModelFilter.pdb
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\obj\Debug\netstandard2.0\ModelFilter.dll
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\obj\Debug\netstandard2.0\ModelFilter.pdb
+C:\Users\dotnetcloudmc102\source\repos\API\ModelFilter\obj\Debug\netstandard2.0\ModelFilter.csproj.CoreCompileInputs.cache

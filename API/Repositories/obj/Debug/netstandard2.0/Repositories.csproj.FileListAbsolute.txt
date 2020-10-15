@@ -1,0 +1,5 @@
+C:\Users\dotnetcloudmc102\source\repos\API\Repositories\bin\Debug\netstandard2.0\Repositories.deps.json
+C:\Users\dotnetcloudmc102\source\repos\API\Repositories\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\dotnetcloudmc102\source\repos\API\Repositories\obj\Debug\netstandard2.0\Repositories.csprojAssemblyReference.cache
+C:\Users\dotnetcloudmc102\source\repos\API\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\dotnetcloudmc102\source\repos\API\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfo.cs
